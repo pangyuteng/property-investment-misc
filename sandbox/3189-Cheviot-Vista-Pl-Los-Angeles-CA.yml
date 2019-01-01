@@ -1,0 +1,47 @@
+
+report_title: 3189 Cheviot Vista Pl
+property_address: 3189 Cheviot Vista Pl
+property_city: Los Angeles
+property_state: CA
+property_zip: 90034
+url: https://www.loopnet.com/Listing/3189-Cheviot-Vista-Pl-Los-Angeles-CA/11737088/
+
+mls_number: 
+property_sales_description:
+
+purchase_price: 5995000 # $
+after_repair_value: 5995000 # $
+purchase_closing_cost: 1500 # $
+estimated_repair_cost: 20000 # $
+
+line_of_credit: # loan amount = total_cash_needed
+  loan_interest_rate: .048 # float (1=100%)
+  amortized_over_how_many_years: 30
+  
+down_payment_of_purchase_price: .2 #float (1=100%) 
+loan_interest_rate: .035 # float (1=100%)
+point_charged_by_lender: 0 # float (1=100%)
+other_charges_from_the_lender: 1000 # $
+amortized_over_how_many_years: 30
+
+total_gross_monthly_rent: 29785
+other_montly_income: 5
+
+fixed_monthly_landlord_paid_expenses_electricity: 50
+fixed_monthly_landlord_paid_expenses_water_sewer: 100
+fixed_monthly_landlord_paid_expenses_pmi: 0
+fixed_monthly_landlord_paid_expenses_garbage: 0
+fixed_monthly_landlord_paid_expenses_hoas: 0
+fixed_monthly_landlord_paid_expenses_insurance: 100
+other_monthly_expenses: 10
+annual_property_taxes_prct:  .0125 # float (1=100%)
+
+vacancy: 0.03 # float (1=100%)
+repairs_and_maintenance: .4 # float (1=100%)
+capital_expenditures: 0. # float (1=100%)
+management_fees: .07 # float (1=100%)
+
+annual_income_growth: .02 # float (1=100%)
+annual_property_value_growth: 0.03 # float (1=100%)
+annual_expenses_growth: 0 # float (1=100%)
+sales_expenses: 0.03 # float (1=100%)

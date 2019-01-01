@@ -1,0 +1,43 @@
+
+report_title: 
+property_address: 
+property_city: 
+property_state: 
+property_zip: 
+url: 
+
+mls_number: 
+property_sales_description:
+
+purchase_price:  # $
+after_repair_value:  # $
+purchase_closing_cost: 1500 # $
+estimated_repair_cost: 20000 # $
+  
+down_payment_of_purchase_price: .0 #float (1=100%) 
+loan_interest_rate: .04 # float (1=100%)
+point_charged_by_lender: 0 # float (1=100%)
+other_charges_from_the_lender: 1000 # $
+amortized_over_how_many_years: 30
+
+total_gross_monthly_rent: 29785
+other_montly_income: 5
+
+fixed_monthly_landlord_paid_expenses_electricity: 50
+fixed_monthly_landlord_paid_expenses_water_sewer: 100
+fixed_monthly_landlord_paid_expenses_pmi: 0
+fixed_monthly_landlord_paid_expenses_garbage: 0
+fixed_monthly_landlord_paid_expenses_hoas: 0
+fixed_monthly_landlord_paid_expenses_insurance: 100
+other_monthly_expenses: 10
+annual_property_taxes_prct:  .0125 # float (1=100%)
+
+vacancy: 0.03 # float (1=100%)
+repairs_and_maintenance: .4 # float (1=100%)
+capital_expenditures: 0. # float (1=100%)
+management_fees: .07 # float (1=100%)
+
+annual_income_growth: .02 # float (1=100%)
+annual_property_value_growth: 0.03 # float (1=100%)
+annual_expenses_growth: 0 # float (1=100%)
+sales_expenses: 0.03 # float (1=100%)
