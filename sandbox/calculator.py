@@ -96,7 +96,7 @@ def calculate(c, is_print=False):
         + c.repairs_and_maintenance * c.monthly_income \
         + c.capital_expenditures * c.monthly_income \
         + c.management_fees * c.monthly_income \
-        + c.monthly_income * c.vacancy \
+        + c.vacancy * c.monthly_income\
         + c.other_monthly_expenses 
 
     
